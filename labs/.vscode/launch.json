@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kuzmauchiha/projects/labs/Lab3",
+      "program": "/Users/kuzmauchiha/projects/labs/Lab3/build/Debug/outDebug"
+    }
+  ]
+}

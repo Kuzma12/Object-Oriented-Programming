@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../Side_Projects"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iomanip": "cpp"
+		}
+	}
+}
